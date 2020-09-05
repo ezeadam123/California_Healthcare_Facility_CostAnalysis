@@ -5,4 +5,4 @@
 
 *Matplotlib used to outprint and visualize data
 
-*Written in python, used to determine and visualize healthcare facilities costs in the state of california.
+*Written in python, purpose of algo is to outprint healthcare facilities costs in the state of california to analyze which counties are spending the most, and where little is being spent.
